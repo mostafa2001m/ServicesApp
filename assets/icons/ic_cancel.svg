@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.303" height="22.303" viewBox="0 0 22.303 22.303">
+  <g id="ic_cancel" transform="translate(-10993.115 17640.402) rotate(43)">
+    <circle id="Ellipse_951" data-name="Ellipse 951" cx="7.89" cy="7.89" r="7.89" transform="translate(-3983 -20406)" fill="#3b86ff"/>
+    <path id="ic_add" d="M8.844,3.988H5.9a.173.173,0,0,1-.173-.173V.867a.867.867,0,1,0-1.734,0V3.815a.173.173,0,0,1-.173.173H.867a.867.867,0,1,0,0,1.734H3.815a.173.173,0,0,1,.173.173V8.844a.867.867,0,0,0,1.734,0V5.9A.173.173,0,0,1,5.9,5.722H8.844a.867.867,0,0,0,0-1.734Zm0,0" transform="translate(-3979.763 -20402.764)" fill="#fff"/>
+  </g>
+</svg>
